@@ -1,4 +1,9 @@
-This is the frontend for the BijlesMatch Customer Portal. This first version will used by scholars and their parents.
+A minimal starter project structure for React apps
+
+- Create React App
+- Reach Router
+- Styled Components
+- Initial routing, sample Auth
 
 It is a single page app, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find the available scripts below.
 
