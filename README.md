@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend for the BijlesMatch Customer Portal. This first version will used by scholars and their parents.
+
+It is a single page app, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find the available scripts below.
+
+To get up and running
+- make sure you have `npm` or `yarn` installed on your machine.
+- run `npm install` or `yarn install`
+- use the scripts below to start the project (`npm start` / `yarn start`)
+
+This project uses a scenes/components/services based structure, better explained in [this article](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1).
 
 ## Available Scripts
 
