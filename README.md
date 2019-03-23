@@ -1,8 +1,8 @@
 A minimal starter project structure for React apps
 
-- Create React App
-- Reach Router
-- Styled Components
+- Create React App https://github.com/facebook/create-react-app
+- Reach Router https://github.com/reach/router
+- Styled Components https://github.com/styled-components/styled-components
 - Initial routing, sample Auth
 
 It is a single page app, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find the available scripts below.
